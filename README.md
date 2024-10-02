@@ -1,2 +1,2 @@
-# Introducci-n-a-Python
+# Introduccion_Python
 Análisis Multivariante. Clases de Python
